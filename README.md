@@ -3,7 +3,7 @@
 ##
 
 ### 🎨👨🏻‍💻 Sobre mim
-Sou estudante de programação, apaixonado por tecnologia, design e jogos digitais, tenho conhecimento em (HTMl, CSS, JavaScript e Phyton), possuindo também experiência em aplicativos de design como (Figma) e na área de engines de jogos (Godot Engine).
+Sou estudante de programação, apaixonado por tecnologia, design e jogos digitais, tenho conhecimento em (HTMl, CSS, JavaScript e Phyton), possuindo também experiência em aplicativos de design como (Figma e Photoshop).
   
   ##
 ### 🚀 Minhas Tecnologias
